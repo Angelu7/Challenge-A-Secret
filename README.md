@@ -9,6 +9,3 @@ Este proyecto consiste en una aplicación interactiva que permite agregar nombre
 *Sortear amigo secreto de manera aleatoria y divertida.
 *Alertas visuales personalizadas y agradables para una experiencia más amena.
 
-*******
-codigo abierto para uso libre 
-difrutalo
